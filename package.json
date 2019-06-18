@@ -1,0 +1,26 @@
+{
+  "name": "@vtrushin/css-color-parser",
+  "version": "0.0.1",
+  "contributors": [
+    "Vlad Trushin <monospectr@mail.ru> (https://github.com/vtrushin)"
+  ],
+  "description": "CSS color parser",
+  "repository": "https://github.com/vtrushin/css-color-parser",
+  "keywords": [
+    "css",
+    "color",
+    "parser"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@vtrushin/helpers": "0.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.8.0"
+  },
+  "license": "MIT"
+}
