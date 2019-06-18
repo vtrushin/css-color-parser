@@ -1,5 +1,5 @@
 Css color parser
 
-[ ] HEX
-[ ] HSLA
-[ ] HSB
+- [x] HEX
+- [ ] HSLA
+- [ ] HSB
